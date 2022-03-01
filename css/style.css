@@ -1,0 +1,48 @@
+body{
+    background-color: rgba(14, 4, 73, 0.911);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#contenido{
+    margin-top: 40px;
+}
+
+#armas{
+    margin-top: 40px;
+}
+
+h1, h2{
+    text-align: center;
+    color:azure
+}
+
+.boton{
+    margin: auto;
+    width: max-content;    
+    padding: 10px;
+}
+
+#resultado{
+    text-decoration: underline;
+    font-weight: bolder;
+}
+
+.ganar{
+    text-decoration: underline;
+    color: green;
+}
+.perder{
+    text-decoration: underline;
+    color: red;
+}
+
+button{
+    cursor: pointer;
+    font-weight: bold;
+    float: right;
+    border: 3px solid aquamarine;
+    padding: 30px;
+    width: 120px;
+    text-align: center;
+}
+
