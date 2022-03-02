@@ -76,5 +76,3 @@ function obtenerResultado(eleccionComputadora) {
 function numeroGanadas(contador) {
     contadorDisplay.innerHTML = contador;
 }
-
-// Prueba1
